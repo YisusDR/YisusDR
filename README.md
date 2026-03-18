@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/YisusDR/YisusDR/blob/main/Gemini_Generated_Image_41hzxx41hzxx41hz%20-%20Editada.png" alt="Jesus Rodriguez Banner" width="100%">
+</p>
+
 
 # Hi, I'm Jesus Rodriguez! 🚀
 ### Informatics Professional | Data Analyst & Developer
