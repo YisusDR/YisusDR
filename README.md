@@ -8,9 +8,9 @@
 
 
 ## 🚀 About Me
-I am an **Informatics professional** passionate about building technology that solves real-world problems. Currently, I am focusing on my degree thesis: **"Sistema Comunal Inteligente"**, a project aimed at improving community management through tech.
+I am an **Informatics professional** passionate about building technology that solves real-world problems.
 
-- 🎓 Final year Informatics student.
+
 - 📊 **Data Enthusiast**: Experienced in creating insights with **Power BI**.
 - 🌐 Developing full-stack skills with **ReactJS** and **Python**.
 - 🌎 Currently learning English to expand my professional horizons.
@@ -19,7 +19,7 @@ I am an **Informatics professional** passionate about building technology that s
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jesus-david-rodríguez-691748235)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-david-rodríguez-691748235)
 
 
 
